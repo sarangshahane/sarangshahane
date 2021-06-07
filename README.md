@@ -1,4 +1,9 @@
-### Hi there 👋
+## Hello viewers 👋, I'm <a href="http://resume.sarangshahane.in/">Sarang Shahane</a>. &#x2615;
+
+I am a Full-Stack WordPress Developer and A WooCommerce Enthusiast. Expreienced in core php, JS, Jq, React.
+
+⚡ Some Fun facts about me: I like to talk more, read more, do more, and I am a crazy about Computor/PC games espaically, first shooter. <br><br>
+📫 Want to have a chat with me? I am ready, just drop a message on sarangshahane321@gmail.com <br>
 
 <!--
 **sarangshahane/sarangshahane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
