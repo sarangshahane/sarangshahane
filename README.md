@@ -1,38 +1,137 @@
-## Hello viewers 👋, I'm <a href="http://resume.sarangshahane.in/">Sarang Shahane</a>. &#x2615;
+# 👋 Hey, I'm Sarang Shahane
 
-I am a Full-Stack WordPress Developer and A WooCommerce Enthusiast. Expreienced in core php, JS, Jq, React.
+### Lead WordPress Developer · WooCommerce · React · Plugin Development
 
-⚡ Some Fun facts about me: I like to talk more, read more, do more, and I am a crazy about Computor/PC games espaically, first shooter. <br><br>
-📫 Want to have a chat with me? I am ready, just drop a message on sarangshahane321@gmail.com <br>
+I build **WordPress & WooCommerce plugins, React-powered interfaces, custom integrations, and production-ready solutions**.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sarang.shahane.16) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shahane.sarang) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sarang-shahane-1b2442106) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abcdefghi@gmail.com) 
+With a strong focus on **WordPress + WooCommerce + React**, I enjoy turning complex requirements into clean, maintainable, and practical software.
 
-## 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+<p align="left">
+  <a href="https://github.com/sarangshahane">
+    <img src="https://img.shields.io/github/followers/sarangshahane?label=Follow%20me&style=for-the-badge&logo=github" alt="GitHub Followers">
+  </a>
+  <a href="http://resume.sarangshahane.in/">
+    <img src="https://img.shields.io/badge/View%20Resume-4285F4?style=for-the-badge&logo=readme&logoColor=white" alt="Resume">
+  </a>
+  <a href="mailto:sarangshahane321@gmail.com">
+    <img src="https://img.shields.io/badge/Let's%20Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sarangshahane&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sarangshahane&theme=transparent&hide_border=false)<br/>
+---
+
+## 🚀 What I Build
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧩 WordPress & WooCommerce
+
+- WordPress Plugin Development
+- WooCommerce Development
+- Custom Themes & Child Themes
+- Hooks, Actions & Filters
+- WooCommerce Checkout & My Account
+- Payment & Third-party Integrations
+- REST APIs & AJAX
+- Debugging & Compatibility
+
+</td>
+<td width="50%">
+
+### ⚛️ React Ecosystem
+
+- ReactJS
+- React Hooks
+- Redux & State Management
+- Component-based UI
+- React-powered WordPress Plugins
+- Gutenberg / Block Development
+- React Native
+- REST API & AJAX Integration
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⭐ Things I've Built
+
+Here are a few projects from my WordPress journey:
+
+| Project | What it does |
+| --- | --- |
+| [AI Fun Questions](https://github.com/sarangshahane/ai-fun-questions) | AI-powered WordPress plugin with a modern interface |
+| [Get All Filters](https://github.com/sarangshahane/get-all-filters) | Developer utility for inspecting WordPress actions and filters |
+| [Woo MyAccount](https://github.com/sarangshahane/woo-myaccount) | WooCommerce My Account customizations |
+| [PDF Invoices Edit Woo Address](https://github.com/sarangshahane/pdf-invoices-edit-woo-address) | WooCommerce PDF invoice/address customization |
+| [Klarna Checkout for WooCommerce](https://github.com/sarangshahane/klarna-checkout-for-woocommerce) | WooCommerce checkout/payment integration |
+
+> 💡 I regularly experiment with WordPress, WooCommerce, React, and AI to build useful developer and user-facing solutions.
+
+---
+
+## 💻 Tech Stack
+
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-%2396588A.svg?style=for-the-badge&logo=woocommerce&logoColor=white)
+![React](https://img.shields.io/badge/ReactJS-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## ⚡ Beyond the Code
+
+I like to **talk, read, build, experiment, and solve problems**.
+
+I'm particularly interested in exploring new ways of combining **WordPress, WooCommerce, React, and AI** to build useful software.
+
+When I'm not coding, you'll probably find me playing **PC games — especially first-person shooters.** 🎮
+
+---
+
+## 🤝 Let's Connect
+
+If you're working on something involving **WordPress, WooCommerce, React, plugin development, or integrations**, I'd be happy to connect.
+
+<p align="left">
+  <a href="https://github.com/sarangshahane">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20me-181717?style=for-the-badge&logo=github" alt="Follow on GitHub">
+  </a>
+  <a href="https://linkedin.com/in/sarang-shahane-1b2442106">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn">
+  </a>
+  <a href="mailto:sarangshahane321@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me">
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=sarangshahane&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=sarangshahane&theme=transparent&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarangshahane&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=sarangshahane&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=sarangshahane&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<!--
-**sarangshahane/sarangshahane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
